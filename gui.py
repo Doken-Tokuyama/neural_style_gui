@@ -78,7 +78,7 @@ class Table(QWidget):
         # Choose Output
         # --------------
         output_path = QLineEdit(self.convert_tab)
-        output_path.setText("Insert output filepath")
+        output_path.setText("Output filepath")
         output_path.move(6, 70)
 
 

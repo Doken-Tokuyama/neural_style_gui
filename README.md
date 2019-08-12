@@ -1,6 +1,10 @@
 # fast-neural-style :city_sunrise: :rocket:
-## Installation
-- ``
+## How To
+- Run `git --version` to make sure you have Github installed
+- Open a terminal, get to where to want to intall with `ls`
+- Get the code with `git clone https://github.com/tobyshooters/neural_style_gui.git`
+- Download the dependencies `bash install.sh`
+- Run the GUI: `python3 gui.py`
 
 ## Description
 This repository contains a pytorch implementation of an algorithm for artistic style transfer. The algorithm can be used to mix the content of an image with the style of another image. For example, here is a photograph of a door arch rendered in the style of a stained glass painting.

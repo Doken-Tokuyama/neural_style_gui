@@ -1,0 +1,12 @@
+Priorities:
+- Install file and easy process to run the file
+- Create GUI to run FastNeuralStyle
+- Expand so that you can train your own models
+- Parameterize style on the fly with AdaIn
+- Video
+
+Install:
+- SimpleGUI
+
+- COCO Dataset
+- Models
